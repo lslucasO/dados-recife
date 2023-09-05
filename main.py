@@ -1,20 +1,18 @@
-import requests
+import requests, json
 
-dataset = requests.get("http://dados.recife.pe.gov.br/pt_BR/api/3/action/datastore_search?resource_id=87fc9349-312c-4dcb-a311-1c97365bd9f5")
+dataset = requests.get("http://dados.recife.pe.gov.br/api/3/action/datastore_search?resource_id=7c613836-9edd-4c0f-bc72-495008dd29c3&limit=300")
 dataset = dataset.json()
 
-database = {"EMPRESA": ""}
-list_data = []
+database = {}
+listData = []
 
-
-for empresa in dataset["result"]["records"]:
-    if empresa["nome_fantasia"] not in "" and empresa["nome_fantasia"] not in database["EMPRESA"]:
-        database["EMPRESA"] = empresa["nome_fantasia"]
-        database["RUA"] = empresa["nome_logradouro"]
-        database["COD_LOG"] = empresa["cod_logradouro"]
-        list_data.append(database.copy())
-    else:
-        pass
-
+for escola in dataset["result"]["records"]:
+    database["ESCOLA"] = escola["escola"]
+    database["QTD_ALUNOS"] = escola["qtd_alunos"]
+    database["RECURSO"] = escola["sala_recurso"]
+    listData.append(database.copy())
     
-print(list_data)
+with open("database.json", "w") as f:
+    json.dump(listData, f, indent=2)    
+
+print(f"Encontramos informações de {len(listData)} escolas da Rede Municipal do Recife\nJSON gerado.")
