@@ -1,1501 +1,1801 @@
 [
   {
     "ESCOLA": "ALMIRANTE SOARES DUTRA",
+    "BAIRRO": "CABANGA",
     "QTD_ALUNOS": 387,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "CIDADAO HERBERT DE SOUZA",
+    "BAIRRO": "SANTO AMARO",
     "QTD_ALUNOS": 207,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "DO COQUE",
+    "BAIRRO": "ILHA JOANA BEZERRA",
     "QTD_ALUNOS": 598,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "DOS COELHOS",
+    "BAIRRO": "COELHOS",
     "QTD_ALUNOS": 763,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "FREI TADEU GLASER",
+    "BAIRRO": "SANTO AMARO",
     "QTD_ALUNOS": 138,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "GENERAL EMIDIO DANTAS BARRETO",
+    "BAIRRO": "SANTO AMARO",
     "QTD_ALUNOS": 341,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "LUTADORES DO BEM",
+    "BAIRRO": "SANTO AMARO",
     "QTD_ALUNOS": 277,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "NOSSA SENHORA DO PILAR",
+    "BAIRRO": "RECIFE",
     "QTD_ALUNOS": 171,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "NOVO MANGUE",
+    "BAIRRO": "ILHA JOANA BEZERRA",
     "QTD_ALUNOS": 419,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "PEDRO AUGUSTO",
+    "BAIRRO": "BOA VISTA",
     "QTD_ALUNOS": 387,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "PROFESSOR JOSE DA COSTA PORTO",
+    "BAIRRO": "ILHA JOANA BEZERRA",
     "QTD_ALUNOS": 782,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "PROFESSOR JOSUE DE CASTRO",
+    "BAIRRO": "ILHA JOANA BEZERRA",
     "QTD_ALUNOS": 249,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "REITOR JOAO ALFREDO",
+    "BAIRRO": "ILHA DO LEITE",
     "QTD_ALUNOS": 330,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "SANTO AMARO",
+    "BAIRRO": "SANTO AMARO",
     "QTD_ALUNOS": 527,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "SEDE DA SABEDORIA",
+    "BAIRRO": "SANTO AMARO",
     "QTD_ALUNOS": 510,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "SITIO DO CEU",
+    "BAIRRO": "SANTO AMARO",
     "QTD_ALUNOS": 185,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "PROFESSOR FRANCISCO DO AMARAL LOPES",
+    "BAIRRO": "SANTO AMARO",
     "QTD_ALUNOS": 128,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "SAO DOMINGOS SAVIO",
+    "BAIRRO": "SANTO AMARO",
     "QTD_ALUNOS": 30,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "VOVO ARTUR",
+    "BAIRRO": "COELHOS",
     "QTD_ALUNOS": 104,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "ANA ROSA FALCAO DE CARVALHO",
+    "BAIRRO": "SANTO AMARO",
     "QTD_ALUNOS": 186,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "COELHINHO PENSANTE",
+    "BAIRRO": "SANTO AMARO",
     "QTD_ALUNOS": 101,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "DOUTOR ALBERICO DORNELAS CAMARA",
+    "BAIRRO": "RECIFE",
     "QTD_ALUNOS": 103,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "MAEZINHA DO COQUE",
+    "BAIRRO": "ILHA JOANA BEZERRA",
     "QTD_ALUNOS": 140,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "DO PILAR",
+    "BAIRRO": "RECIFE",
     "QTD_ALUNOS": 119,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "PORTO DIGITAL DO RECIFE",
+    "BAIRRO": "RECIFE",
     "QTD_ALUNOS": 82,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "SERGIO LORETO",
+    "BAIRRO": "SAO JOSE",
     "QTD_ALUNOS": 94,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "ALDA ROMEU",
+    "BAIRRO": "AGUA FRIA",
     "QTD_ALUNOS": 338,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "ALTO DO MARACANA",
+    "BAIRRO": "DOIS UNIDOS",
     "QTD_ALUNOS": 446,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "ALTO DO PASCOAL",
+    "BAIRRO": "AGUA FRIA",
     "QTD_ALUNOS": 554,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "ALTO SANTA TEREZINHA",
+    "BAIRRO": "AGUA FRIA",
     "QTD_ALUNOS": 617,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "ANA MAURICIA WANDERLEY",
+    "BAIRRO": "AGUA FRIA",
     "QTD_ALUNOS": 237,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "ANITA PAES BARRETO",
+    "BAIRRO": "FUNDAO",
     "QTD_ALUNOS": 122,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "ANTONIO HERACLIO DO REGO",
+    "BAIRRO": "AGUA FRIA",
     "QTD_ALUNOS": 485,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "ANTONIO LUIZ",
+    "BAIRRO": "AGUA FRIA",
     "QTD_ALUNOS": 109,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "ANTONIO LUIZ - ANEXO I",
+    "BAIRRO": "CAMPINA DO BARRETO",
     "QTD_ALUNOS": 51,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "ANTONIO TIBURCIO",
+    "BAIRRO": "ALTO SANTA TEREZINHA",
     "QTD_ALUNOS": 166,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "CAMPINA DO BARRETO",
+    "BAIRRO": "CAJUEIRO",
     "QTD_ALUNOS": 349,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "COMPOSITOR CAPIBA",
+    "BAIRRO": "TORREAO",
     "QTD_ALUNOS": 146,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "COMPOSITOR LEVINO FERREIRA",
+    "BAIRRO": "BOMBA DO HEMETERIO",
     "QTD_ALUNOS": 219,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "DE AGUA FRIA",
+    "BAIRRO": "CAMPINA DO BARRETO",
     "QTD_ALUNOS": 123,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "DE AGUA FRIA - ANEXO",
+    "BAIRRO": "CAMPINA DO BARRETO",
     "QTD_ALUNOS": 143,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "DE BEBERIBE",
+    "BAIRRO": "BEBERIBE",
     "QTD_ALUNOS": 176,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "DEUS E AMOR",
+    "BAIRRO": "AGUA FRIA",
     "QTD_ALUNOS": 117,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "DEUS E AMOR - ANEXO I",
+    "BAIRRO": "AGUA FRIA",
     "QTD_ALUNOS": 72,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "ENGENHEIRO EDINALDO MIRANDA DE OLIVEIRA",
+    "BAIRRO": "ENCRUZILHADA",
     "QTD_ALUNOS": 189,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "IRMA TEREZINHA BATISTA - ANEXO I",
+    "BAIRRO": "CAMPINA DO BARRETO",
     "QTD_ALUNOS": 122,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "IRMA TEREZINHA BATISTA - PROJ NOVO VIVER",
+    "BAIRRO": "CAMPINA DO BARRETO",
     "QTD_ALUNOS": 229,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "JOAO AMAZONAS",
+    "BAIRRO": "DOIS UNIDOS",
     "QTD_ALUNOS": 142,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "JOSEFINA MARINHO",
+    "BAIRRO": "ALTO JOSE BONIFACIO",
     "QTD_ALUNOS": 184,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "LADJANE BANDEIRA",
+    "BAIRRO": "AGUA FRIA",
     "QTD_ALUNOS": 84,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "LUIZ LUA GONZAGA",
+    "BAIRRO": "BOMBA DO HEMETERIO",
     "QTD_ALUNOS": 229,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "MANOEL ANTONIO DE FREITAS",
+    "BAIRRO": "ALTO SANTA TEREZINHA",
     "QTD_ALUNOS": 241,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "MARIO MELO",
+    "BAIRRO": "CAMPO GRANDE",
     "QTD_ALUNOS": 784,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "MONSENHOR VIANA",
+    "BAIRRO": "BEBERIBE",
     "QTD_ALUNOS": 334,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "MONTEIRO LOBATO",
+    "BAIRRO": "PEIXINHOS",
     "QTD_ALUNOS": 323,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "NOVA AURORA",
+    "BAIRRO": "AGUA FRIA",
     "QTD_ALUNOS": 128,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "NOVO HORIZONTE",
+    "BAIRRO": "AGUA FRIA",
     "QTD_ALUNOS": 290,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "OLINDINA MONTEIRO DE OLIVEIRA FRANCA",
+    "BAIRRO": "DOIS UNIDOS",
     "QTD_ALUNOS": 490,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "PASTOR PAULO LEIVAS MACALAO",
+    "BAIRRO": "LINHA DO TIRO",
     "QTD_ALUNOS": 452,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "PAULO VI",
+    "BAIRRO": "LINHA DO TIRO",
     "QTD_ALUNOS": 538,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "POETA JONATAS BRAGA",
+    "BAIRRO": "CAMPO GRANDE",
     "QTD_ALUNOS": 152,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "POETA SOLANO TRINDADE",
+    "BAIRRO": "AGUA FRIA",
     "QTD_ALUNOS": 375,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "PROF JANDIRA BOTELHO PEREIRA DA COSTA",
+    "BAIRRO": "CAMPO GRANDE",
     "QTD_ALUNOS": 698,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "PROFESSOR RICARDO GAMA",
+    "BAIRRO": "LINHA DO TIRO",
     "QTD_ALUNOS": 606,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "PROFESSORA HELIA MARIA PEREIRA",
+    "BAIRRO": "CAMPO GRANDE",
     "QTD_ALUNOS": 124,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "SANTA CECILIA",
+    "BAIRRO": "CAMPO GRANDE",
     "QTD_ALUNOS": 376,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "SAO JOAO BATISTA",
+    "BAIRRO": "LINHA DO TIRO",
     "QTD_ALUNOS": 334,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "SERVICO SOCIAL DE BELEM",
+    "BAIRRO": "ENCRUZILHADA",
     "QTD_ALUNOS": 99,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "AME AS CRIANCAS",
+    "BAIRRO": "ALTO SANTA TEREZINHA",
     "QTD_ALUNOS": 42,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "CAJUEIRO",
+    "BAIRRO": "CAJUEIRO",
     "QTD_ALUNOS": 21,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "TIA EMILIA",
+    "BAIRRO": "DOIS UNIDOS",
     "QTD_ALUNOS": 89,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "UNIDOS VENCEREMOS",
+    "BAIRRO": "ALTO SANTA TEREZINHA",
     "QTD_ALUNOS": 80,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "VILA IMPERIAL",
+    "BAIRRO": "ARRUDA",
     "QTD_ALUNOS": 81,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "WALDEMAR DE SOUZA CABRAL",
+    "BAIRRO": "AGUA FRIA",
     "QTD_ALUNOS": 22,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "ZACARIAS DO REGO MACIEL",
+    "BAIRRO": "LINHA DO TIRO",
     "QTD_ALUNOS": 178,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "ALTO DA GUABIRABA",
+    "BAIRRO": "BREJO DA GUABIRABA",
     "QTD_ALUNOS": 196,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "ALTO DO REFUGIO - IVAN NEVES",
+    "BAIRRO": "BREJO DE BEBERIBE",
     "QTD_ALUNOS": 138,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "ALTO DO REFUGIO - IVAN NEVES - ANEXO I",
+    "BAIRRO": "BREJO DE BEBERIBE",
     "QTD_ALUNOS": 83,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "ALTO JARDIM PROGRESSO",
+    "BAIRRO": "NOVA DESCOBERTA",
     "QTD_ALUNOS": 279,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "ALTO JARDIM PROGRESSO - ANEXO I",
+    "BAIRRO": "NOVA DESCOBERTA",
     "QTD_ALUNOS": 76,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "ANEXA CASA AMARELA",
+    "BAIRRO": "MACAXEIRA",
     "QTD_ALUNOS": 153,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "ARQUITETO ALEXANDRE MUNIZ DE OLIVEIRA",
+    "BAIRRO": "CORREGO DO JENIPAPO",
     "QTD_ALUNOS": 291,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "BOA ESPERANCA",
+    "BAIRRO": "VASCO DA GAMA",
     "QTD_ALUNOS": 285,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "BOLA NA REDE",
+    "BAIRRO": "GUABIRABA",
     "QTD_ALUNOS": 385,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "CECILIA MEIRELLES",
+    "BAIRRO": "MACAXEIRA",
     "QTD_ALUNOS": 175,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "CHICO SCIENCE",
+    "BAIRRO": "VASCO DA GAMA",
     "QTD_ALUNOS": 114,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "CORREGO DA AREIA",
+    "BAIRRO": "NOVA DESCOBERTA",
     "QTD_ALUNOS": 190,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "CORREGO DA BICA",
+    "BAIRRO": "PASSARINHO",
     "QTD_ALUNOS": 286,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "CORREGO DO EUCLIDES",
+    "BAIRRO": "MORRO DA CONCEICAO",
     "QTD_ALUNOS": 286,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "DA GUABIRABA",
+    "BAIRRO": "BREJO DA GUABIRABA",
     "QTD_ALUNOS": 397,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "DA GUABIRABA ANEXO II",
+    "BAIRRO": "BREJO DA GUABIRABA",
     "QTD_ALUNOS": 110,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "DA MANGABEIRA",
+    "BAIRRO": "MANGABEIRA",
     "QTD_ALUNOS": 363,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "DE ALTAS HABILIDADES E SUPERDOTACAO",
+    "BAIRRO": "TAMARINEIRA",
     "QTD_ALUNOS": 0,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "DE CASA AMARELA",
+    "BAIRRO": "NOVA DESCOBERTA",
     "QTD_ALUNOS": 270,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "DE SURDOCEGUEIRA E DEFICIENCIA MULTIPLA",
+    "BAIRRO": "TAMARINEIRA",
     "QTD_ALUNOS": 0,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "DE TRANSTORNO GLOBAL DO DESENVOLVIMENTO",
+    "BAIRRO": "TAMARINEIRA",
     "QTD_ALUNOS": 0,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "DEP FERNANDO SAMPAIO ANX I ANTONIO FELIX",
+    "BAIRRO": "NOVA DESCOBERTA",
     "QTD_ALUNOS": 157,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "DEPUTADO FERNANDO SAMPAIO",
+    "BAIRRO": "NOVA DESCOBERTA",
     "QTD_ALUNOS": 181,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "DIACONO ABEL GUEIROS",
+    "BAIRRO": "MACAXEIRA",
     "QTD_ALUNOS": 366,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "DOM HELDER CAMARA",
+    "BAIRRO": "ESPINHEIRO",
     "QTD_ALUNOS": 299,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "DOM JOSE LAMARTINE SOARES",
+    "BAIRRO": "VASCO DA GAMA",
     "QTD_ALUNOS": 280,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "DOM JOSE LAMARTINE SOARES - ANEXO I CVC",
+    "BAIRRO": "VASCO DA GAMA",
     "QTD_ALUNOS": 103,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "DOUTOR CAETE",
+    "BAIRRO": "NOVA DESCOBERTA",
     "QTD_ALUNOS": 304,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "DRAOMIRO CHAVES AGUIAR",
+    "BAIRRO": "CASA AMARELA",
     "QTD_ALUNOS": 457,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "HISTORIADOR FLAVIO GUERRA",
+    "BAIRRO": "PASSARINHO",
     "QTD_ALUNOS": 159,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "HISTORIADOR FLAVIO GUERRA - ANEXO I",
+    "BAIRRO": "PASSARINHO",
     "QTD_ALUNOS": 174,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "JULIO VICENTE ALVES DE ARAU ANX I CERVAC",
+    "BAIRRO": "MORRO DA CONCEICAO",
     "QTD_ALUNOS": 0,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "JULIO VICENTE ALVES DE ARAUJO",
+    "BAIRRO": "MORRO DA CONCEICAO",
     "QTD_ALUNOS": 234,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "MARGARIDA DE SIQUEIRA PESSOA",
+    "BAIRRO": "ALTO JOSE BONIFACIO",
     "QTD_ALUNOS": 286,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "MARLUCE SANTIAGO DA SILVA",
+    "BAIRRO": "PASSARINHO",
     "QTD_ALUNOS": 416,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "MARLUCE SANTIAGO DA SILVA - ANEXO I",
+    "BAIRRO": "PASSARINHO",
     "QTD_ALUNOS": 100,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "MAURICIO DE NASSAU",
+    "BAIRRO": "ALTO DO MANDU",
     "QTD_ALUNOS": 229,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "MUNDO ESPERANCA",
+    "BAIRRO": "SITIO DOS PINTOS",
     "QTD_ALUNOS": 320,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "NADIR COLACO",
+    "BAIRRO": "MACAXEIRA",
     "QTD_ALUNOS": 457,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "NOVA DESCOBERTA",
+    "BAIRRO": "PASSARINHO",
     "QTD_ALUNOS": 464,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "OCTAVIO DE MEIRA LINS",
+    "BAIRRO": "VASCO DA GAMA",
     "QTD_ALUNOS": 751,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "PADRE ANTONIO HENRIQUE",
+    "BAIRRO": "DERBY",
     "QTD_ALUNOS": 427,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "PADRE ANTONIO HENRIQUE ANEXO I",
+    "BAIRRO": "BOA VISTA",
     "QTD_ALUNOS": 115,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "PEDRINHO",
+    "BAIRRO": "NOVA DESCOBERTA",
     "QTD_ALUNOS": 121,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "PEDRO ALCANTARA",
+    "BAIRRO": "CORREGO DO JENIPAPO",
     "QTD_ALUNOS": 148,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "POETA JOAQUIM CARDOSO",
+    "BAIRRO": "NOVA DESCOBERTA",
     "QTD_ALUNOS": 739,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "PRESBITERO JOSE BEZERRA",
+    "BAIRRO": "MACAXEIRA",
     "QTD_ALUNOS": 391,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "PROFESSOR ADERBAL GALVAO",
+    "BAIRRO": "VASCO DA GAMA",
     "QTD_ALUNOS": 490,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "PROFESSOR JOSE SOARES DA SILVA",
+    "BAIRRO": "NOVA DESCOBERTA",
     "QTD_ALUNOS": 331,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "PROFESSOR MAURO MOTA",
+    "BAIRRO": "NOVA DESCOBERTA",
     "QTD_ALUNOS": 458,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "PROFESSOR MOACYR DE ALBUQUERQUE",
+    "BAIRRO": "NOVA DESCOBERTA",
     "QTD_ALUNOS": 308,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "PROFESSOR NILO PEREIRA",
+    "BAIRRO": "CASA AMARELA",
     "QTD_ALUNOS": 338,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "PROFESSOR NILO PEREIRA ANEXO APAE",
+    "BAIRRO": "MONTEIRO",
     "QTD_ALUNOS": 0,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "PROFESSORA ALMERINDA UMBELINO DE BARROS",
+    "BAIRRO": "VASCO DA GAMA",
     "QTD_ALUNOS": 796,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "RENATO ACCIOLY CARNEIRO CAMPOS",
+    "BAIRRO": "NOVA DESCOBERTA",
     "QTD_ALUNOS": 164,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "ROZEMAR DE MACEDO LIMA",
+    "BAIRRO": "MORRO DA CONCEICAO",
     "QTD_ALUNOS": 416,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "SANTA MARIA",
+    "BAIRRO": "ALTO JOSE DO PINHO",
     "QTD_ALUNOS": 691,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "SANTA MARIA GORETTI",
+    "BAIRRO": "VASCO DA GAMA",
     "QTD_ALUNOS": 336,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "SAO CRISTOVAO",
+    "BAIRRO": "BREJO DA GUABIRABA",
     "QTD_ALUNOS": 558,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "SEVERINA LIRA",
+    "BAIRRO": "TAMARINEIRA",
     "QTD_ALUNOS": 204,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "SOCIOLOGO GILBERTO FREYRE",
+    "BAIRRO": "DOIS IRMAOS",
     "QTD_ALUNOS": 500,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "VIRGEM PODEROSA",
+    "BAIRRO": "PARNAMIRIM",
     "QTD_ALUNOS": 322,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "CRIANCA FELIZ",
+    "BAIRRO": "ALTO JOSE BONIFACIO",
     "QTD_ALUNOS": 75,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "FLOR DA COMUNIDADE",
+    "BAIRRO": "MORRO DA CONCEICAO",
     "QTD_ALUNOS": 48,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "FLOR DO BAIRRO DA GUABIRABA",
+    "BAIRRO": "BREJO DA GUABIRABA",
     "QTD_ALUNOS": 71,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "IRMA DULCE",
+    "BAIRRO": "ESPINHEIRO",
     "QTD_ALUNOS": 71,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "MARDONIO COELHO",
+    "BAIRRO": "VASCO DA GAMA",
     "QTD_ALUNOS": 91,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "MERCIA MARIA BEZERRA COSTA",
+    "BAIRRO": "BREJO DE BEBERIBE",
     "QTD_ALUNOS": 125,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "MONTE DAS OLIVEIRAS",
+    "BAIRRO": "NOVA DESCOBERTA",
     "QTD_ALUNOS": 30,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "NOSSA SENHORA DE FATIMA",
+    "BAIRRO": "NOVA DESCOBERTA",
     "QTD_ALUNOS": 44,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "SAO JOAO",
+    "BAIRRO": "MACAXEIRA",
     "QTD_ALUNOS": 79,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "CELESTE VIDAL",
+    "BAIRRO": "BREJO DA GUABIRABA",
     "QTD_ALUNOS": 109,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "CMEI CREUSA ARCOVERDE DE FREITAS CAVALCANTI",
+    "BAIRRO": "CASA AMARELA",
     "QTD_ALUNOS": 91,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "CRECHE ESCOLA RECIFE ALTO DO MANDU",
+    "BAIRRO": "MONTEIRO",
     "QTD_ALUNOS": 158,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "DONA CARMELITA MUNIZ DE ARAUJO",
+    "BAIRRO": "GUABIRABA",
     "QTD_ALUNOS": 104,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "MENINO JESUS DE CASA FORTE",
+    "BAIRRO": "SANTANA",
     "QTD_ALUNOS": 214,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "NOSSA SENHORA DAS DORES",
+    "BAIRRO": "APIPUCOS",
     "QTD_ALUNOS": 72,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "PROFESSOR ARIANO VILAR SUASSUNA",
+    "BAIRRO": "DOIS IRMAOS",
     "QTD_ALUNOS": 146,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "ARRAIAL NOVO DO BOM JESUS",
+    "BAIRRO": "TORROES",
     "QTD_ALUNOS": 758,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "CASARAO DO BARBALHO",
+    "BAIRRO": "IPUTINGA",
     "QTD_ALUNOS": 438,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "CELIA ARRAES",
+    "BAIRRO": "VARZEA",
     "QTD_ALUNOS": 332,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "CREUSA DE FREITAS CAVALCANTI",
+    "BAIRRO": "TORROES",
     "QTD_ALUNOS": 633,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "DA IPUTINGA",
+    "BAIRRO": "IPUTINGA",
     "QTD_ALUNOS": 630,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "DARCY RIBEIRO",
+    "BAIRRO": "CORDEIRO",
     "QTD_ALUNOS": 600,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "DINA DE OLIVEIRA",
+    "BAIRRO": "IPUTINGA",
     "QTD_ALUNOS": 742,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "ESCOLA SANTA LUZIA",
+    "BAIRRO": "ESTANCIA",
     "QTD_ALUNOS": 115,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "DIVINO ESPIRITO SANTO",
+    "BAIRRO": "VARZEA",
     "QTD_ALUNOS": 419,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "DO DOM",
+    "BAIRRO": "VARZEA",
     "QTD_ALUNOS": 181,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "DOS TORROES",
+    "BAIRRO": "TORROES",
     "QTD_ALUNOS": 192,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "DOUTOR EBENEZER GUEIROS",
+    "BAIRRO": "IPUTINGA",
     "QTD_ALUNOS": 447,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "DOUTOR RODOLFO AURELIANO",
+    "BAIRRO": "VARZEA",
     "QTD_ALUNOS": 658,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "DOUTOR SAMUEL GONCALVES",
+    "BAIRRO": "PRADO",
     "QTD_ALUNOS": 188,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "ENGENHO DO MEIO",
+    "BAIRRO": "ENGENHO DO MEIO",
     "QTD_ALUNOS": 708,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "HENFIL",
+    "BAIRRO": "VARZEA",
     "QTD_ALUNOS": 197,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "JADER FIGUEIREDO DE ANDRADE SILVA",
+    "BAIRRO": "ENGENHO DO MEIO",
     "QTD_ALUNOS": 258,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "JADER FIGUEIREDO DE ANDRADE SILVA - ANEX",
+    "BAIRRO": "ENGENHO DO MEIO",
     "QTD_ALUNOS": 145,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "JOAO PESSOA GUERRA",
+    "BAIRRO": "VARZEA",
     "QTD_ALUNOS": 235,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "JOAO XXIII",
+    "BAIRRO": "IPUTINGA",
     "QTD_ALUNOS": 442,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "MAGALHAES BASTOS",
+    "BAIRRO": "VARZEA",
     "QTD_ALUNOS": 612,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "MERCIA DE ALBUQUERQUE FERREIRA",
+    "BAIRRO": "ILHA DO RETIRO",
     "QTD_ALUNOS": 360,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "NOVA MORADA",
+    "BAIRRO": "CAXANGA",
     "QTD_ALUNOS": 141,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "NOVA MORADA - ANEXO I",
+    "BAIRRO": "CAXANGA",
     "QTD_ALUNOS": 263,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "PAPA JOAO XXIII",
+    "BAIRRO": "ENGENHO DO MEIO",
     "QTD_ALUNOS": 203,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "PAROQUIAL CRISTO REI",
+    "BAIRRO": "TORRE",
     "QTD_ALUNOS": 259,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "PROF ELIZABETH SALES COUTINHO BARROS",
+    "BAIRRO": "TORROES",
     "QTD_ALUNOS": 257,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "PROFESSOR JOAO BATISTA LIPPO NETO",
+    "BAIRRO": "VARZEA",
     "QTD_ALUNOS": 187,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "PROFESSOR JOAO FRANCISCO DE SOUZA",
+    "BAIRRO": "VARZEA",
     "QTD_ALUNOS": 395,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "SAO DOMINGOS",
+    "BAIRRO": "IPUTINGA",
     "QTD_ALUNOS": 337,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "SENADOR JOSE ERMIRIO DE MORAES",
+    "BAIRRO": "VARZEA",
     "QTD_ALUNOS": 371,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "SITIO DO BERARDO",
+    "BAIRRO": "MADALENA",
     "QTD_ALUNOS": 165,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "SOLDADO JOSE ANTONIO DO NASCIMENTO",
+    "BAIRRO": "MADALENA",
     "QTD_ALUNOS": 140,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "SOLDADO JOSE ANTONIO DO NASCIMENTO ANEXO",
+    "BAIRRO": "MADALENA",
     "QTD_ALUNOS": 0,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "VILA SANTA LUZIA",
+    "BAIRRO": "CORDEIRO",
     "QTD_ALUNOS": 545,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "ZUMBI DOS PALMARES",
+    "BAIRRO": "VARZEA",
     "QTD_ALUNOS": 550,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "CASINHA AZUL",
+    "BAIRRO": "IPUTINGA",
     "QTD_ALUNOS": 132,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "CRECHE MUNICIPAL CEAPE",
+    "BAIRRO": "ENGENHO DO MEIO",
     "QTD_ALUNOS": 121,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "CRECHE MUNICIPAL DEUS E AMOR",
+    "BAIRRO": "TORROES",
     "QTD_ALUNOS": 82,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "DA TORRE",
+    "BAIRRO": "TORRE",
     "QTD_ALUNOS": 137,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "E LUTANDO QUE SE CONQUISTA",
+    "BAIRRO": "CORDEIRO",
     "QTD_ALUNOS": 91,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "ESPERANCA",
+    "BAIRRO": "TORROES",
     "QTD_ALUNOS": 131,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "JOAO EUGENIO",
+    "BAIRRO": "IPUTINGA",
     "QTD_ALUNOS": 58,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "JOAO EUGENIO - ANX I- LAR SEM FRONTEIRAS",
+    "BAIRRO": "VARZEA",
     "QTD_ALUNOS": 52,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "LUA LUAR",
+    "BAIRRO": "IPUTINGA",
     "QTD_ALUNOS": 69,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "MENINO JESUS DA BOMBA GRANDE",
+    "BAIRRO": "IPUTINGA",
     "QTD_ALUNOS": 65,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "NOSSA SENHORA AUXILIADORA",
+    "BAIRRO": "TORROES",
     "QTD_ALUNOS": 42,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "RODA DE FOGO",
+    "BAIRRO": "CORDEIRO",
     "QTD_ALUNOS": 59,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "ROSA SELVAGEM",
+    "BAIRRO": "VARZEA",
     "QTD_ALUNOS": 58,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "VINDE A MIM AS CRIANCINHAS",
+    "BAIRRO": "MADALENA",
     "QTD_ALUNOS": 45,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "WALDIR SAVLUSCHINSKE",
+    "BAIRRO": "ENGENHO DO MEIO",
     "QTD_ALUNOS": 141,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "ALCIDES RESTELLI TEDESCO",
+    "BAIRRO": "MADALENA",
     "QTD_ALUNOS": 228,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "PROFESSOR PAULO ROSAS",
+    "BAIRRO": "CIDADE UNIVERSITARIA",
     "QTD_ALUNOS": 125,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "SEMENTINHA DO SKYLAB",
+    "BAIRRO": "IPUTINGA",
     "QTD_ALUNOS": 121,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "ASSOCIACAO CRISTA FEMININA",
+    "BAIRRO": "TORRE",
     "QTD_ALUNOS": 163,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "CMEI DARCY RIBEIRO",
+    "BAIRRO": "CORDEIRO",
     "QTD_ALUNOS": 100,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "CRECHE ESCOLA RECIFE MIGUEL ARRAES DE ALENCAR",
+    "BAIRRO": "IPUTINGA",
     "QTD_ALUNOS": 115,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "MIGUEL ARRAES RODA DE FOGO",
+    "BAIRRO": "TORROES",
     "QTD_ALUNOS": 233,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "SANTA LUZIA",
+    "BAIRRO": "TORRE",
     "QTD_ALUNOS": 136,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "SITIO DO CARDOSO",
+    "BAIRRO": "MADALENA",
     "QTD_ALUNOS": 163,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "ALTO DA BELA VISTA",
+    "BAIRRO": "COQUEIRAL",
     "QTD_ALUNOS": 112,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "ALTO DA BELA VISTA - ANEXO I",
+    "BAIRRO": "COQUEIRAL",
     "QTD_ALUNOS": 89,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "ANDRE DE MELO",
+    "BAIRRO": "ESTANCIA",
     "QTD_ALUNOS": 688,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "ANTONIO FARIAS FILHO",
+    "BAIRRO": "SAN MARTIN",
     "QTD_ALUNOS": 841,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "BALBINA MENELAU",
+    "BAIRRO": "JARDIM SAO PAULO",
     "QTD_ALUNOS": 395,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "CASA DOS FERROVIARIOS",
+    "BAIRRO": "COQUEIRAL",
     "QTD_ALUNOS": 449,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "CHICO MENDES",
+    "BAIRRO": "AREIAS",
     "QTD_ALUNOS": 436,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "DE TEJIPIO",
+    "BAIRRO": "COQUEIRAL",
     "QTD_ALUNOS": 534,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "DO BARRO",
+    "BAIRRO": "BARRO",
     "QTD_ALUNOS": 205,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "DO PANTANAL",
+    "BAIRRO": "COHAB",
     "QTD_ALUNOS": 155,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "DO PANTANAL - ANEXO I",
+    "BAIRRO": "BARRO",
     "QTD_ALUNOS": 137,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "DO PANTANAL - ANEXO II",
+    "BAIRRO": "BARRO",
     "QTD_ALUNOS": 75,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "DO SANCHO",
+    "BAIRRO": "SANCHO",
     "QTD_ALUNOS": 409,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "DOM BOSCO",
+    "BAIRRO": "JARDIM SAO PAULO",
     "QTD_ALUNOS": 522,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "DOS REMEDIOS",
+    "BAIRRO": "PRADO",
     "QTD_ALUNOS": 471,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "DOUTOR ANTONIO CORREIA",
+    "BAIRRO": "BARRO",
     "QTD_ALUNOS": 212,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "EDITE BRAGA",
+    "BAIRRO": "AFOGADOS",
     "QTD_ALUNOS": 384,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "GENERAL SAN MARTIN",
+    "BAIRRO": "SAN MARTIN",
     "QTD_ALUNOS": 417,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "GOVERNADOR MIGUEL ARRAES DE ALENCAR",
+    "BAIRRO": "ESTANCIA",
     "QTD_ALUNOS": 515,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "HUGO GERDAU",
+    "BAIRRO": "SAN MARTIN",
     "QTD_ALUNOS": 503,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "ISAAC PEREIRA DA SILVA",
+    "BAIRRO": "AREIAS",
     "QTD_ALUNOS": 313,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "JARDIM UCHOA",
+    "BAIRRO": "AREIAS",
     "QTD_ALUNOS": 256,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "MANOEL ROLIM",
+    "BAIRRO": "JARDIM SAO PAULO",
     "QTD_ALUNOS": 127,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "MANOEL ROLIM - ANEXO I",
+    "BAIRRO": "JARDIM SAO PAULO",
     "QTD_ALUNOS": 100,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "PADRE JOSE DE ANCHIETA",
+    "BAIRRO": "MUSTARDINHA",
     "QTD_ALUNOS": 607,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "PADRE JOSE MATHIAS DELGADO",
+    "BAIRRO": "JARDIM SAO PAULO",
     "QTD_ALUNOS": 486,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "PARQUE DOS MILAGRES",
+    "BAIRRO": "BARRO",
     "QTD_ALUNOS": 216,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "PARQUE DOS MILAGRES - ANEXO II",
+    "BAIRRO": "BARRO",
     "QTD_ALUNOS": 251,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "POETA CARLOS PENA FILHO",
+    "BAIRRO": "JARDIM SAO PAULO",
     "QTD_ALUNOS": 318,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "PROFESSOR ANTONIO DE BRITO ALVES",
+    "BAIRRO": "MUSTARDINHA",
     "QTD_ALUNOS": 818,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "PROFESSOR POTIGUAR MATOS",
+    "BAIRRO": "SAN MARTIN",
     "QTD_ALUNOS": 410,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "PROFESSORA MARIA DA PAZ BRANDAO ALVES",
+    "BAIRRO": "SANCHO",
     "QTD_ALUNOS": 599,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "PROFESSORA PRIMITIVA DE BARROS SILVA",
+    "BAIRRO": "JARDIM SAO PAULO",
     "QTD_ALUNOS": 228,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "SANTA EDWIGES",
+    "BAIRRO": "AFOGADOS",
     "QTD_ALUNOS": 161,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "SANTO ANTONIO DO CACOTE",
+    "BAIRRO": "AREIAS",
     "QTD_ALUNOS": 197,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "VILA SAO MIGUEL",
+    "BAIRRO": "AFOGADOS",
     "QTD_ALUNOS": 397,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "WALDEMAR VALENTE",
+    "BAIRRO": "CURADO",
     "QTD_ALUNOS": 330,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "BIDO KRAUSE",
+    "BAIRRO": "TOTO",
     "QTD_ALUNOS": 101,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "CRECHE MUNICIPAL CHICO MENDES",
+    "BAIRRO": "CACOTE",
     "QTD_ALUNOS": 29,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "CRECHE MUNICIPAL NOVO HORIZONTE",
+    "BAIRRO": "MUSTARDINHA",
     "QTD_ALUNOS": 61,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "DE AFOGADOS",
+    "BAIRRO": "AFOGADOS",
     "QTD_ALUNOS": 128,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "DO BONGI",
+    "BAIRRO": "BONGI",
     "QTD_ALUNOS": 134,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "FUTURO DO AMANHA",
+    "BAIRRO": "SAN MARTIN",
     "QTD_ALUNOS": 61,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "VILA DOS MILAGRES",
+    "BAIRRO": "COHAB",
     "QTD_ALUNOS": 37,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "ISABEL SILVANA DE MELO",
+    "BAIRRO": "BARRO",
     "QTD_ALUNOS": 58,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "RECIFE 2000",
+    "BAIRRO": "AREIAS",
     "QTD_ALUNOS": 120,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "DA MANGUEIRA",
+    "BAIRRO": "MANGUEIRA",
     "QTD_ALUNOS": 120,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "NOSSO SENHOR JESUS DO BONFIM",
+    "BAIRRO": "ESTANCIA",
     "QTD_ALUNOS": 123,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "CRECHE ESCOLA RECIFE DA ESTANCIA",
+    "BAIRRO": "ESTANCIA",
     "QTD_ALUNOS": 170,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "CRECHE ESCOLA RECIFE GOVERNADOR MIGUEL ARRAES",
+    "BAIRRO": "AREIAS",
     "QTD_ALUNOS": 324,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "DO IRAQUE",
+    "BAIRRO": "ESTANCIA",
     "QTD_ALUNOS": 126,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "PRESIDENTE TANCREDO NEVES",
+    "BAIRRO": "BARRO",
     "QTD_ALUNOS": 237,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "ABILIO GOMES",
+    "BAIRRO": "BOA VIAGEM",
     "QTD_ALUNOS": 315,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "ARTISTA PLASTICO CICERO DIAS",
+    "BAIRRO": "COHAB",
     "QTD_ALUNOS": 85,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "ASA BRANCA",
+    "BAIRRO": "COHAB",
     "QTD_ALUNOS": 338,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "BEATO EUGENIO MAZENOD",
+    "BAIRRO": "IMBIRIBEIRA",
     "QTD_ALUNOS": 330,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "CAPELA SANTO ANTONIO",
+    "BAIRRO": "IMBIRIBEIRA",
     "QTD_ALUNOS": 151,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "CARLUCIO DE SOUZA CASTANHA JUNIOR",
+    "BAIRRO": "COHAB",
     "QTD_ALUNOS": 582,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "CICERO FRANKLIN CORDEIRO",
+    "BAIRRO": "COHAB",
     "QTD_ALUNOS": 665,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "CLARICE LISPECTOR",
+    "BAIRRO": "IPSEP",
     "QTD_ALUNOS": 288,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "CRISTIANO CORDEIRO",
+    "BAIRRO": "COHAB",
     "QTD_ALUNOS": 552,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "DE DOIS RIOS",
+    "BAIRRO": "COHAB",
     "QTD_ALUNOS": 306,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "DEPUTADO EDSON CANTARELLI",
+    "BAIRRO": "IBURA",
     "QTD_ALUNOS": 336,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "DO JORDAO",
+    "BAIRRO": "JORDAO",
     "QTD_ALUNOS": 239,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "DO LEAO",
+    "BAIRRO": "BOA VIAGEM",
     "QTD_ALUNOS": 228,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "DONA LUCI SILVA LIMA",
+    "BAIRRO": "IMBIRIBEIRA",
     "QTD_ALUNOS": 145,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "EDUCADOR PAULO FREIRE",
+    "BAIRRO": "IPSEP",
     "QTD_ALUNOS": 596,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "ENGENHEIRO GUILHERME DINIZ",
+    "BAIRRO": "IBURA",
     "QTD_ALUNOS": 489,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "ENGENHEIRO HENOCH COUTINHO DE MELO",
+    "BAIRRO": "PINA",
     "QTD_ALUNOS": 394,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "ENGENHEIRO UMBERTO GONDIM",
+    "BAIRRO": "PINA",
     "QTD_ALUNOS": 503,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "ESCRITOR JOSUE DE CASTRO",
+    "BAIRRO": "BRASILIA TEIMOSA",
     "QTD_ALUNOS": 207,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "FERNANDO SANTA CRUZ",
+    "BAIRRO": "JORDAO",
     "QTD_ALUNOS": 132,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "FLORESTAN FERNANDES",
+    "BAIRRO": "IBURA",
     "QTD_ALUNOS": 844,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "FUTURO FELIZ",
+    "BAIRRO": "IBURA",
     "QTD_ALUNOS": 241,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "IBURA DE BAIXO",
+    "BAIRRO": "IBURA",
     "QTD_ALUNOS": 346,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "INES SOARES DE LIMA",
+    "BAIRRO": "IMBIRIBEIRA",
     "QTD_ALUNOS": 230,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "JARDIM MAURICEIA",
+    "BAIRRO": "IMBIRIBEIRA",
     "QTD_ALUNOS": 216,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "JARDIM MONTE VERDE",
+    "BAIRRO": "COHAB",
     "QTD_ALUNOS": 610,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "JORDAO BAIXO",
+    "BAIRRO": "JORDAO",
     "QTD_ALUNOS": 139,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "JORDAO BAIXO - ANEXO I",
+    "BAIRRO": "JORDAO",
     "QTD_ALUNOS": 128,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "JOSE MUCIO MONTEIRO",
+    "BAIRRO": "IBURA",
     "QTD_ALUNOS": 244,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "KARLA PATRICIA",
+    "BAIRRO": "BOA VIAGEM",
     "QTD_ALUNOS": 654,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "LAGOA ENCANTADA",
+    "BAIRRO": "COHAB",
     "QTD_ALUNOS": 229,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "LUIZ VAZ DE CAMOES",
+    "BAIRRO": "IPSEP",
     "QTD_ALUNOS": 549,
     "RECURSO": "SIM"
   },
   {
     "ESCOLA": "MAESTRO NELSON FERREIRA",
+    "BAIRRO": "IBURA",
     "QTD_ALUNOS": 138,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "MARGARIDA SERPA COSSART",
+    "BAIRRO": "COHAB",
     "QTD_ALUNOS": 261,
     "RECURSO": "N\u00c3O"
   },
   {
     "ESCOLA": "MARIA ADELAIDE DE BARROS",
+    "BAIRRO": "COHAB",
     "QTD_ALUNOS": 346,
     "RECURSO": "SIM"
   }

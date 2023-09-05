@@ -8,6 +8,7 @@ listData = []
 
 for escola in dataset["result"]["records"]:
     database["ESCOLA"] = escola["escola"]
+    database["BAIRRO"] = escola["bairro"]
     database["QTD_ALUNOS"] = escola["qtd_alunos"]
     database["RECURSO"] = escola["sala_recurso"]
     listData.append(database.copy())
